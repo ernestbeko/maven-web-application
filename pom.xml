@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>ernest</finalName>
+		<finalName>tesla-web-application</finalName>
 		
 		<plugins>
 			<plugin>
